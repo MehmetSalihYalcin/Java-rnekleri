@@ -10,8 +10,6 @@ Kullanicidan yapacagi islemi islem sembolu ile secmesini saglayinız.
 Kullanicidan iki sayi girmesini isteyiniz.
 Girilen iki sayi ve secilen isleme gore dogru sonucu ekrana yazdirınız.
 
-***cikan sonucla yeni bi islem yaptirmayi sectirip isleme devam ettirin
-***hesap makinesi ve islemler methodla calissin.
 */
 
         while(true)
